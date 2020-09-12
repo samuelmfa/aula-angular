@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aula-angular"
+    }
+  },
+  "defaultProject": "aula-angular",
+  "cli": {
+    "analytics": "27ecb5cc-391e-4f27-9442-4d52aac3367f"
+  }
 }
